@@ -1,0 +1,2 @@
+# SeSeBot
+一个基于Nodejs的色色机器人，可用于go-cqhttp或者其他websocket通信的机器人
